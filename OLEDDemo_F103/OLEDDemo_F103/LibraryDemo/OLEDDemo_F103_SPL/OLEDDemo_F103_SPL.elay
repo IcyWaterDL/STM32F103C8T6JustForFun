@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBitz_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="..\..\Library\Core\Core.c.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="55" />
+		</Cursor>
+	</File>
+	<File name="..\..\Library\GOFi2cOLED\GOFi2cOLED.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="19012" topLine="1016" />
+		</Cursor>
+	</File>
+	<File name="..\..\Library\GOFi2cOLED\GOFi2cOLED.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4500" topLine="98" />
+		</Cursor>
+	</File>
+	<File name="..\..\Library\Print\Print.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1811" topLine="48" />
+		</Cursor>
+	</File>
+	<File name="..\..\Library\Print\Print.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1858" topLine="63" />
+		</Cursor>
+	</File>
+	<File name="..\..\Library\Wire\Wire.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12799" topLine="144" />
+		</Cursor>
+		<Folding>
+			<Collapse line="39" />
+			<Collapse line="49" />
+			<Collapse line="71" />
+			<Collapse line="79" />
+			<Collapse line="85" />
+			<Collapse line="96" />
+			<Collapse line="110" />
+			<Collapse line="152" />
+			<Collapse line="171" />
+			<Collapse line="192" />
+			<Collapse line="214" />
+			<Collapse line="230" />
+			<Collapse line="256" />
+			<Collapse line="285" />
+			<Collapse line="323" />
+			<Collapse line="329" />
+			<Collapse line="336" />
+			<Collapse line="344" />
+			<Collapse line="351" />
+			<Collapse line="359" />
+			<Collapse line="363" />
+			<Collapse line="369" />
+			<Collapse line="375" />
+			<Collapse line="379" />
+			<Collapse line="383" />
+			<Collapse line="401" />
+			<Collapse line="411" />
+			<Collapse line="422" />
+			<Collapse line="454" />
+		</Folding>
+	</File>
+	<File name="..\..\Library\Wire\Wire.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1411" topLine="87" />
+		</Cursor>
+	</File>
+	<File name="HexUpload.cmd.txt" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="271" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="src\CoreCfg.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="467" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\main.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9674" topLine="184" />
+		</Cursor>
+		<Folding>
+			<Collapse line="157" />
+			<Collapse line="177" />
+			<Collapse line="189" />
+			<Collapse line="194" />
+		</Folding>
+	</File>
+</EmBitz_layout_file>

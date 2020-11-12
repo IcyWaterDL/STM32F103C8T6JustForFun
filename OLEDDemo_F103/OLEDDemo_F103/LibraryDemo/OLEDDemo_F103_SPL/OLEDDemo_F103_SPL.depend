@@ -1,0 +1,269 @@
+# depslib dependency file v1.0
+1511232059 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\misc.c
+	"misc.h"
+
+1511232059 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\misc.h
+	"stm32f10x.h"
+
+1511206858 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1511206858 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1513827576 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1511206858 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1511206858 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\inc\system_stm32f10x.h
+
+1511206858 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\inc\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_can.h"
+	"stm32f10x_cec.h"
+	"stm32f10x_crc.h"
+	"stm32f10x_dac.h"
+	"stm32f10x_dbgmcu.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_fsmc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_iwdg.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_sdio.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_wwdg.h"
+	"misc.h"
+
+1511232059 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1511232059 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1511232059 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1511232059 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1511232059 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1511232059 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1511232059 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1511232059 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1511232059 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1511232059 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1511232059 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1512978681 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1533788831 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1511232059 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1511232059 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1511232059 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1511232059 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1511232059 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1511232059 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1511232059 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1511232059 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1511232059 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1511232059 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1511232059 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1511232059 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1511232059 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1511232059 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1511232059 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1511232059 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1511232059 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1511232059 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1536247874 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1511232059 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1511232059 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1511232059 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1511232059 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1511232059 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1552450913 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1511232059 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1511232059 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1511232059 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1511232059 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1511232059 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1511232059 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\spl\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1511206858 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\src\startup_stm32f10x_md.s
+
+1511206858 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\common\spl_f103\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1552628343 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\library\gofi2coled\gofi2coled.cpp
+	<stdlib.h>
+	"Core.h"
+	"Wire.h"
+	"GOFi2cOLED.h"
+
+1552361401 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\library\core\core.h
+	"basic.h"
+
+1536721473 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\library\basic.h
+	"stm32f10x_conf.h"
+	"stm32f0xx_conf.h"
+	<stdbool.h>
+
+1552276706 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\library\wire\wire.h
+	"basic.h"
+
+1552629822 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\library\gofi2coled\gofi2coled.h
+	"Wire.h"
+	"Print.h"
+
+1604723017 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\library\print\print.h
+	<inttypes.h>
+	<stdio.h>
+	<string.h>
+	"WString.h"
+
+1552637196 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\library\string\wstring.h
+
+1552636932 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\library\print\print.cpp
+	<math.h>
+	"Print.h"
+
+1552636819 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\library\serial\hardwareserial.cpp
+	"Core.h"
+	"HardwareSerial.h"
+
+1552636819 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\library\serial\hardwareserial.h
+	<inttypes.h>
+	"Print.h"
+
+1552637270 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\library\string\wstring.cpp
+	"WString.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1605115244 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\library\wire\wire.cpp
+	"Wire.h"
+	"Core.h"
+
+1542875741 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\librarydemo\oleddemo_f103_spl\src\corecfg.c
+	"Core.c.h"
+
+1561770985 d:\vxl\vxl\oleddemo_f103\oleddemo_f103\library\core\core.c.h
+	"Core.h"
+	<stdio.h>
+
+1605184218 source:d:\vxl\vxl\oleddemo_f103\oleddemo_f103\librarydemo\oleddemo_f103_spl\src\main.cpp
+	"Core.h"
+	"GOFi2cOLED.h"
+	<stdio.h>
+
